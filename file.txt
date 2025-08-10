@@ -1,0 +1,10 @@
+Sample Text File - Vaishnavi
+----------------------------
+This is a simple file.txt used for Experiment 13.
+
+Purpose:
+- To practice uploading and deleting a plain text file from a GitHub repository via the web interface.
+- You can open this file on GitHub, click the 3-dots menu, and select "Delete this file" to follow the experiment steps.
+
+Note:
+మీరు ఎవరికైనా ఇది తెలుగులో చూపించాలన్నా, ఈ file.txt లో సాధారణ message add చేసుకోవచ్చు.
